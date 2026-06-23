@@ -10,7 +10,7 @@ Public legal pages for apps by Nitesh Kumar, hosted on **free GitHub Pages** (no
 | Privacy Policy | https://niteshcongreja321.github.io/niteshkumar-dev/privacy-policy/ |
 | Terms of Service | https://niteshcongreja321.github.io/niteshkumar-dev/terms/ |
 
-These URLs are used by the VC Management (Waak VC) iOS app and App Store Connect.
+These URLs are used by the Waak VC iOS app and App Store Connect.
 
 ## Local preview
 
