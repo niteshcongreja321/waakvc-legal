@@ -1,14 +1,14 @@
-# niteshkumar-dev
+# waakvc-legal
 
-Public legal pages for apps by Nitesh Kumar, hosted on **free GitHub Pages** (no custom domain required).
+Public legal pages for **Waak VC**, hosted on free GitHub Pages.
 
 ## Live URLs
 
 | Page | URL |
 | --- | --- |
-| Home | https://niteshcongreja321.github.io/niteshkumar-dev/ |
-| Privacy Policy | https://niteshcongreja321.github.io/niteshkumar-dev/privacy-policy/ |
-| Terms of Service | https://niteshcongreja321.github.io/niteshkumar-dev/terms/ |
+| Home | https://niteshcongreja321.github.io/waakvc-legal/ |
+| Privacy Policy | https://niteshcongreja321.github.io/waakvc-legal/privacy-policy/ |
+| Terms of Service | https://niteshcongreja321.github.io/waakvc-legal/terms/ |
 
 These URLs are used by the Waak VC iOS app and App Store Connect.
 
