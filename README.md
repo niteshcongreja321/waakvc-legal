@@ -1,35 +1,16 @@
-# niteshkumar.dev
+# niteshkumar-dev
 
-Public legal pages for apps by Nitesh Kumar, hosted on GitHub Pages.
+Public legal pages for apps by Nitesh Kumar, hosted on **free GitHub Pages** (no custom domain required).
 
 ## Live URLs
 
 | Page | URL |
 | --- | --- |
-| Home | https://niteshkumar.dev/ |
-| Privacy Policy | https://niteshkumar.dev/privacy-policy |
-| Terms of Service | https://niteshkumar.dev/terms |
+| Home | https://niteshcongreja321.github.io/niteshkumar-dev/ |
+| Privacy Policy | https://niteshcongreja321.github.io/niteshkumar-dev/privacy-policy/ |
+| Terms of Service | https://niteshcongreja321.github.io/niteshkumar-dev/terms/ |
 
-## Custom domain DNS
-
-Point `niteshkumar.dev` to GitHub Pages:
-
-**A records** (apex domain):
-
-```
-185.199.108.153
-185.199.109.153
-185.199.110.153
-185.199.111.153
-```
-
-**Optional** `www` CNAME:
-
-```
-www → niteshcongreja321.github.io
-```
-
-After DNS propagates, enable HTTPS in the repository's GitHub Pages settings if it is not already enforced.
+These URLs are used by the VC Management (Waak VC) iOS app and App Store Connect.
 
 ## Local preview
 
