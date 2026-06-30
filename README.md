@@ -8,6 +8,7 @@ Public legal pages for **Waak VC**, hosted on free GitHub Pages.
 | --- | --- |
 | Home | https://niteshcongreja321.github.io/waakvc-legal/ |
 | Privacy Policy | https://niteshcongreja321.github.io/waakvc-legal/privacy-policy/ |
+| Delete Account | https://niteshcongreja321.github.io/waakvc-legal/delete-account/ |
 | Terms of Service | https://niteshcongreja321.github.io/waakvc-legal/terms/ |
 
 These URLs are used by the Waak VC iOS app and App Store Connect.
